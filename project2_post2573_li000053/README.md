@@ -13,7 +13,7 @@ It will also print the number of cycle that program used.
 
 
 ## Files Used
-**sim-multi.c** : takes machine code and simulates the behaviors of the instructions on the UST-3400 machine, recording the number of cycles for each instruction
+**sim-multi.c** : takes machine code and simulates the behaviors of the instructions on the UST-3400 machine, recording the total number of cycles.
 
 **makefile** : compiles and cleans our simulator.c
 
